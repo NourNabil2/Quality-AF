@@ -1,6 +1,6 @@
 # 🏭 Quality AF – Manufacturing Management System
 
-![Header Image](assets/header.png)  
+![Header Image](image_2025-10-22_021112250.png)  
 *A complete cross-platform system for managing supply orders, tracking workflow, and monitoring payment collection.*
 
 ---
@@ -71,8 +71,8 @@ Integrated with Supabase and local notification services to:
 
 | Mobile | Desktop |
 |--------|----------|
-| ![Mobile 1](assets/mobile_1.png) | ![Desktop 1](assets/desktop_1.png) |
-| ![Mobile 2](assets/mobile_2.png) | ![Desktop 2](assets/desktop_2.png) |
+| ![Mobile 1](https://github.com/NourNabil2/Quality-AF/blob/main/mobile_1.jpeg) | ![Desktop 1](https://github.com/NourNabil2/Quality-AF/blob/main/image_2025-10-22_020123034.png) |
+| ![Mobile 2](https://github.com/NourNabil2/Quality-AF/blob/main/mobile_2.jpeg) | ![Desktop 2](https://github.com/NourNabil2/Quality-AF/blob/main/image_2025-10-22_020151858.png) |
 
 ---
 
